@@ -1,5 +1,6 @@
 # 名称/符号黑名单关键字（不区分大小写）
 # 每行一个，可以是完整符号，也可以是名称中的一部分
+# 最好用Name（Name为模糊匹配, symbol为精确, 用name防止误伤）
 
 # 稳定币等常见剔除对象（这里保留，代码里还有对 USD 的硬过滤）
 USDT
@@ -21,6 +22,8 @@ gyd
 thbill
 resolv-usr
 usr
+koge
+resolv
 
 # 黄金
 PAXG
@@ -96,7 +99,6 @@ Binance-Peg SOL
 # 分叉
 bsc
 
-# 你提到要排除的
 
 # Meme 类（从当前结果中识别）
 purr
@@ -166,6 +168,7 @@ lgct
 gems
 caw
 MARSMI
+Turbo
 
 
 
@@ -178,6 +181,7 @@ dood
 omi
 palmo
 lion
+carv
 
 # gamfi
 gala
@@ -204,6 +208,9 @@ axyc
 gama
 bc
 beam
+timi
+Cross
+Hyperlane
 
 
 # socialfi
@@ -218,11 +225,17 @@ jasmy
 etn
 vechain
 0g
+Humanity
+
+
+# btc layer2 lighting/bsc已经非常快 不需要更多
 
 #年收入低于1M/7d收入低于5000$
 twt
 ORE
-
+Sonic SVM
+Corn
+Velo
 
 #代币化股票
 tslax
@@ -235,7 +248,14 @@ vsn
 six
 PYTHIA
 conscious
+Holoworld
+AI Rig Complex
+Biconomy
+aixbt
+Xai
 
+# rwa炒作
+Plume
 
 # 团队/产品没格局
 KuCoin

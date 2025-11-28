@@ -16,8 +16,8 @@ from datetime import datetime
 class CoinSelector:
     """币种筛选器"""
 
-    # 市值上限（美元）：30亿
-    MARKET_CAP_MAX = 3_000_000_000
+    # 市值上限（美元）：200亿
+    MARKET_CAP_MAX = 20_000_000_000
     MARKET_CAP_MIN = 30_000_000
 
     def __init__(self):
@@ -213,6 +213,7 @@ class CoinSelector:
         if market_cap > self.MARKET_CAP_MAX:
             return False
 
+        # 2. 市值必须大于30M
         if market_cap < self.MARKET_CAP_MIN:
             return False
 
@@ -232,6 +233,28 @@ class CoinSelector:
 
         # 5. 24小时跌幅不超过20%（避免暴跌币）
         if price_change_24h < -20:
+            return False
+
+        # 6. ATH筛选：ATH时间在2023-01-01之前，或者ath_change_percentage小于-95%的币种要筛选掉
+        ath_date_str = coin.get('ath_date')
+        ath_change_percentage = coin.get('ath_change_percentage')
+
+        if ath_date_str:
+            try:
+                # 解析ATH日期（ISO 8601格式）
+                ath_date = datetime.fromisoformat(
+                    ath_date_str.replace('Z', '+00:00'))
+                cutoff_date = datetime.fromisoformat(
+                    '2023-01-01T00:00:00+00:00')
+                # ATH时间在2023-01-01之前，筛选掉
+                if ath_date < cutoff_date and (ath_change_percentage is None or ath_change_percentage < -95):
+                    return False
+            except (ValueError, AttributeError):
+                # 日期解析失败时忽略此检查
+                pass
+
+        # ath_change_percentage小于-98%，筛选掉
+        if ath_change_percentage is not None and ath_change_percentage < -98:
             return False
 
         return True
