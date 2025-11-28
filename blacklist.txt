@@ -24,6 +24,9 @@ resolv-usr
 usr
 koge
 resolv
+ERUCV
+EURC
+Figure Heloc
 
 # 黄金
 PAXG
@@ -95,6 +98,7 @@ lhype
 upump
 Sanctum Infinity
 Binance-Peg SOL
+BurnedFi
 
 # 分叉
 bsc
@@ -107,8 +111,13 @@ SHIBI
 PNUT
 TUT
 WIF
+Rekt
+BUILDon
 TRUMP
 PENGU
+AI Companions
+OG Fan Token
+TROLL
 PEPE
 BONK
 DOGE
@@ -163,14 +172,20 @@ abt
 awe
 Bitlight
 folks
+GOHOME
 ptgc
 lgct
 gems
 caw
 MARSMI
 Turbo
-
-
+YZY
+DEGEN
+ORDI
+Mog Coin
+Gigachad
+Shiba Inu
+Bullish Degen
 
 # NFT
 nft
@@ -182,6 +197,10 @@ omi
 palmo
 lion
 carv
+SPACE ID
+Metaplex
+Story
+PunkStrategy
 
 # gamfi
 gala
@@ -192,6 +211,7 @@ imx
 flow
 uds
 stx
+Echelon Prime
 zora
 2z
 trust
@@ -200,24 +220,33 @@ super
 myth
 game
 mshd
+Rain
 darkstar
+Limitless
 unp
 sn64
 AGENTFUN
 axyc
+Ronin
 gama
 bc
 beam
 timi
 Cross
 Hyperlane
-
+irys
+Sophon
+soon
+Moca Network
+B3 (Base)
+Limitless
 
 # socialfi
 virtual
 cyber
+RealLink
 
-# 没用的layer one TLV低于10M 联盟链
+# 没用的layer one TLV低于10M/收入低/联盟链
 ab
 near
 kaia
@@ -226,9 +255,25 @@ etn
 vechain
 0g
 Humanity
+Berachain
+Movement
+Gravity (by Galxe)
+ZetaChain
+Ethereum Classic
+Decred
+Polymesh
+INI
 
+# 公链fork  /  layer2的layer2
+Cronos
+Caldera
+Horizen
+Nexpace
+Cosmos Hub
 
 # btc layer2 lighting/bsc已经非常快 不需要更多
+Merlin Chain
+
 
 #年收入低于1M/7d收入低于5000$
 twt
@@ -236,6 +281,12 @@ ORE
 Sonic SVM
 Corn
 Velo
+Fasttoken
+Bounce
+peaq
+Prom
+Pyth Network
+ALEO
 
 #代币化股票
 tslax
@@ -253,10 +304,52 @@ AI Rig Complex
 Biconomy
 aixbt
 Xai
+Dexe
+Proprietary Trading Network
+Ridges AI
+Sahara AI
+Lagrange
+Allora
+Vana
+Qubic
+OKZOO
+Mira
+tokenbot
+Numeraire
+ChainGPT
+RECALL
+Zentry
+OriginTrail
+FLOCK
+OpenLedger
+Golem
+Delysium
+Venice Token
+SoSoValue
+Walrus
+
+# 商业服务且不赚钱/框架
+Shentu
+BitTorrent
+Syndicate
+Request
+Iagon
+ONFA
+
+# desci
+BIO Protocol
+Metal Blockchain
 
 # rwa炒作
 Plume
+Keeta
 
-# 团队/产品没格局
+
+# 团队/产品没格局/无前景
 KuCoin
 sfp
+Worldcoin
+Nervos Network
+
+# Educational
+Open Campus
