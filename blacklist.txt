@@ -26,6 +26,7 @@ koge
 resolv
 ERUCV
 EURC
+EUR CoinVertible
 Figure Heloc
 
 # 黄金
@@ -192,6 +193,7 @@ nft
 sats
 magic
 tnsr
+Ethereum Name Service
 dood
 omi
 palmo
@@ -251,10 +253,12 @@ ab
 near
 kaia
 jasmy
+XDC Network
 etn
 vechain
 0g
 Humanity
+UCHAIN
 Berachain
 Movement
 Gravity (by Galxe)
@@ -263,6 +267,8 @@ Ethereum Classic
 Decred
 Polymesh
 INI
+Monero
+LTC
 
 # 公链fork  /  layer2的layer2
 Cronos
@@ -270,10 +276,13 @@ Caldera
 Horizen
 Nexpace
 Cosmos Hub
+KGeN
+AltLayer
 
-# btc layer2 lighting/bsc已经非常快 不需要更多
+# 没用的layer2 lighting/bsc/plasma已经非常快 不需要更多
 Merlin Chain
-
+Manta Network
+Blast
 
 #年收入低于1M/7d收入低于5000$
 twt
@@ -282,11 +291,24 @@ Sonic SVM
 Corn
 Velo
 Fasttoken
+c8ntinuum
 Bounce
+Hedera
 peaq
 Prom
+MetaDAO
 Pyth Network
+Axelar
+Tellor Tributes
 ALEO
+STBL
+Siren
+HOME
+Kaspa
+Oobit
+Alchemy Pay
+Telcoin
+Ultima
 
 #代币化股票
 tslax
@@ -299,17 +321,26 @@ vsn
 six
 PYTHIA
 conscious
+Momentum
+Bittensor
 Holoworld
 AI Rig Complex
+Akash Network
+io.net
+SQD
+Canton
 Biconomy
 aixbt
 Xai
 Dexe
 Proprietary Trading Network
 Ridges AI
+Beldex
+Unibase
 Sahara AI
 Lagrange
 Allora
+Cookie DAO
 Vana
 Qubic
 OKZOO
@@ -327,6 +358,7 @@ Delysium
 Venice Token
 SoSoValue
 Walrus
+Kite
 
 # 商业服务且不赚钱/框架
 Shentu
@@ -335,21 +367,58 @@ Syndicate
 Request
 Iagon
 ONFA
+KGeN
+Basic Attention
+Quant
 
 # desci
 BIO Protocol
+DeepBook
 Metal Blockchain
 
 # rwa炒作
 Plume
 Keeta
-
+RedStone
+Zebec Network
 
 # 团队/产品没格局/无前景
 KuCoin
 sfp
 Worldcoin
 Nervos Network
+Alchemy Pay
+Wormhole
+MX
+Safe
 
 # Educational
 Open Campus
+
+# 市值过高/Depin
+XYO Network
+Grass
+World Mobile Token
+Threshold Network
+Stellar
+Flare
+Tezos
+Hedera
+
+# zk 且没有大规模应用TVL<10M, 年收入<1M/TVL一直在降低/老而不火
+zkc
+Anoma
+Binance-Peg ZEC
+Succinct
+Starknet
+Railgun
+WeFi
+Zano
+MYX Finance
+Sign
+Swarm Network
+
+
+# Oracle
+Apro
+DIA

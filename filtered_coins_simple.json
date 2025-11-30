@@ -12,34 +12,10 @@
     "score": 4.4174014
   },
   {
-    "symbol": "zkc",
-    "name": "Boundless",
-    "market_cap": 32172742,
-    "score": 4.1759587
-  },
-  {
     "symbol": "avnt",
     "name": "Avantis",
     "market_cap": 105739850,
     "score": 4.112857
-  },
-  {
-    "symbol": "xt",
-    "name": "XT.com",
-    "market_cap": 31433098,
-    "score": 4.09830152647842
-  },
-  {
-    "symbol": "avl",
-    "name": "Avalon",
-    "market_cap": 40284927,
-    "score": 4.0330624
-  },
-  {
-    "symbol": "yb",
-    "name": "Yield Basis",
-    "market_cap": 40150478,
-    "score": 4.0058818
   },
   {
     "symbol": "mon",
@@ -48,100 +24,10 @@
     "score": 4.0
   },
   {
-    "symbol": "xan",
-    "name": "Anoma",
-    "market_cap": 67664911,
-    "score": 4.0
-  },
-  {
-    "symbol": "spk",
-    "name": "Spark",
-    "market_cap": 63201952,
-    "score": 4.0
-  },
-  {
-    "symbol": "mmt",
-    "name": "Momentum",
-    "market_cap": 59656632,
-    "score": 4.0
-  },
-  {
-    "symbol": "at",
-    "name": "Apro",
-    "market_cap": 50555433,
-    "score": 4.0
-  },
-  {
-    "symbol": "layer",
-    "name": "Solayer",
-    "market_cap": 49436929,
-    "score": 4.0
-  },
-  {
-    "symbol": "stbl",
-    "name": "STBL",
-    "market_cap": 34617537,
-    "score": 3.2636268686819485
-  },
-  {
-    "symbol": "sqd",
-    "name": "SQD",
-    "market_cap": 54062549,
-    "score": 3.257596625203919
-  },
-  {
-    "symbol": "kite",
-    "name": "Kite",
-    "market_cap": 194617562,
-    "score": 3.186629216050657
-  },
-  {
     "symbol": "xpl",
     "name": "Plasma",
     "market_cap": 423759643,
     "score": 3.1404265793359287
-  },
-  {
-    "symbol": "home",
-    "name": "HOME",
-    "market_cap": 68785214,
-    "score": 3.1049807884584038
-  },
-  {
-    "symbol": "huma",
-    "name": "Huma Finance",
-    "market_cap": 41277929,
-    "score": 2.978821926846185
-  },
-  {
-    "symbol": "order",
-    "name": "Orderly",
-    "market_cap": 43059473,
-    "score": 2.8926954104090687
-  },
-  {
-    "symbol": "ach",
-    "name": "Alchemy Pay",
-    "market_cap": 51922168,
-    "score": 2.8211930069491244
-  },
-  {
-    "symbol": "strk",
-    "name": "Starknet",
-    "market_cap": 667757307,
-    "score": 2.6793100069386706
-  },
-  {
-    "symbol": "zec",
-    "name": "Binance-Peg ZEC",
-    "market_cap": 61057728,
-    "score": 2.586942797730044
-  },
-  {
-    "symbol": "grass",
-    "name": "Grass",
-    "market_cap": 149426890,
-    "score": 2.5736076819908384
   },
   {
     "symbol": "linea",
@@ -150,52 +36,16 @@
     "score": 2.459884156196236
   },
   {
-    "symbol": "dia",
-    "name": "DIA",
-    "market_cap": 46850034,
-    "score": 2.4175926496740816
-  },
-  {
     "symbol": "aster",
     "name": "Aster",
     "market_cap": 2182070738,
     "score": 2.3641211895120517
   },
   {
-    "symbol": "rez",
-    "name": "Renzo",
-    "market_cap": 31486863,
-    "score": 2.3590620938919193
-  },
-  {
-    "symbol": "trb",
-    "name": "Tellor Tributes",
-    "market_cap": 58376442,
-    "score": 2.307974230923848
-  },
-  {
-    "symbol": "xyo",
-    "name": "XYO Network",
-    "market_cap": 71880359,
-    "score": 2.2944652127022436
-  },
-  {
-    "symbol": "alt",
-    "name": "AltLayer",
-    "market_cap": 71013424,
-    "score": 2.201507639244636
-  },
-  {
     "symbol": "drift",
     "name": "Drift Protocol",
     "market_cap": 101137831,
     "score": 2.1930078749229693
-  },
-  {
-    "symbol": "cookie",
-    "name": "Cookie DAO",
-    "market_cap": 35302717,
-    "score": 2.102583539658744
   },
   {
     "symbol": "jto",
@@ -210,52 +60,10 @@
     "score": 2.0548352448639724
   },
   {
-    "symbol": "prove",
-    "name": "Succinct",
-    "market_cap": 96666463,
-    "score": 1.9627584340045494
-  },
-  {
-    "symbol": "lista",
-    "name": "Lista DAO",
-    "market_cap": 49889693,
-    "score": 1.9373826469110684
-  },
-  {
-    "symbol": "taiko",
-    "name": "Taiko",
-    "market_cap": 39311619,
-    "score": 1.9153047584062741
-  },
-  {
-    "symbol": "wmtx",
-    "name": "World Mobile Token",
-    "market_cap": 76499885,
-    "score": 1.9090749744264324
-  },
-  {
     "symbol": "sui",
     "name": "Sui",
     "market_cap": 5660385589,
     "score": 1.808110432669349
-  },
-  {
-    "symbol": "io",
-    "name": "io.net",
-    "market_cap": 55517714,
-    "score": 1.78970366106933
-  },
-  {
-    "symbol": "somi",
-    "name": "Somnia",
-    "market_cap": 45274663,
-    "score": 1.762931170094494
-  },
-  {
-    "symbol": "red",
-    "name": "RedStone",
-    "market_cap": 79341738,
-    "score": 1.7383411073135655
   },
   {
     "symbol": "ena",
@@ -270,24 +78,6 @@
     "score": 1.6805266041938156
   },
   {
-    "symbol": "kgen",
-    "name": "KGeN",
-    "market_cap": 41454802,
-    "score": 1.6523514833946666
-  },
-  {
-    "symbol": "manta",
-    "name": "Manta Network",
-    "market_cap": 53676273,
-    "score": 1.6380100749539823
-  },
-  {
-    "symbol": "ub",
-    "name": "Unibase",
-    "market_cap": 108942784,
-    "score": 1.6316410549579345
-  },
-  {
     "symbol": "apt",
     "name": "Aptos",
     "market_cap": 1659068459,
@@ -300,40 +90,16 @@
     "score": 1.5264773232694127
   },
   {
-    "symbol": "ltc",
-    "name": "Litecoin",
-    "market_cap": 6609899968,
-    "score": 1.5077249642598152
-  },
-  {
-    "symbol": "kas",
-    "name": "Kaspa",
-    "market_cap": 1629384175,
-    "score": 1.45482673795325
-  },
-  {
     "symbol": "aave",
     "name": "Aave",
     "market_cap": 2775190088,
     "score": 1.4404602039868535
   },
   {
-    "symbol": "deep",
-    "name": "DeepBook",
-    "market_cap": 122455699,
-    "score": 1.4065460848825013
-  },
-  {
     "symbol": "tia",
     "name": "Celestia",
     "market_cap": 544968162,
     "score": 1.4059566312155451
-  },
-  {
-    "symbol": "tag",
-    "name": "TAGGER",
-    "market_cap": 62519445,
-    "score": 1.399027611262088
   },
   {
     "symbol": "ray",
@@ -352,36 +118,6 @@
     "name": "Uniswap",
     "market_cap": 3893915200,
     "score": 1.3691998579578724
-  },
-  {
-    "symbol": "blast",
-    "name": "Blast",
-    "market_cap": 50804405,
-    "score": 1.3623113850471629
-  },
-  {
-    "symbol": "eurcv",
-    "name": "EUR CoinVertible",
-    "market_cap": 76159951,
-    "score": 1.361958399983049
-  },
-  {
-    "symbol": "ada",
-    "name": "Cardano",
-    "market_cap": 15815084061,
-    "score": 1.3594128019495275
-  },
-  {
-    "symbol": "bat",
-    "name": "Basic Attention",
-    "market_cap": 334535160,
-    "score": 1.3436648021197772
-  },
-  {
-    "symbol": "ssv",
-    "name": "SSV Network",
-    "market_cap": 55752438,
-    "score": 1.285419948810131
   },
   {
     "symbol": "pump",
@@ -408,12 +144,6 @@
     "score": 1.1873234114318858
   },
   {
-    "symbol": "w",
-    "name": "Wormhole",
-    "market_cap": 235001567,
-    "score": 1.1792230840108249
-  },
-  {
     "symbol": "bard",
     "name": "Lombard",
     "market_cap": 165830919,
@@ -424,12 +154,6 @@
     "name": "ZKsync",
     "market_cap": 346447617,
     "score": 1.1497108031774974
-  },
-  {
-    "symbol": "trx",
-    "name": "TRON",
-    "market_cap": 26172222818,
-    "score": 1.118979708561275
   },
   {
     "symbol": "ldo",
@@ -444,12 +168,6 @@
     "score": 1.0762111443226672
   },
   {
-    "symbol": "wbt",
-    "name": "WhiteBIT Coin",
-    "market_cap": 12783706807,
-    "score": 1.0533590511018918
-  },
-  {
     "symbol": "inj",
     "name": "Injective",
     "market_cap": 598636528,
@@ -462,28 +180,10 @@
     "score": 1.0310336729954406
   },
   {
-    "symbol": "hbar",
-    "name": "Hedera",
-    "market_cap": 6276453633,
-    "score": 1.0280200212647217
-  },
-  {
-    "symbol": "tao",
-    "name": "Bittensor",
-    "market_cap": 2932225964,
-    "score": 1.0269808485196266
-  },
-  {
     "symbol": "kmno",
     "name": "Kamino",
     "market_cap": 203875925,
     "score": 1.0257365751937975
-  },
-  {
-    "symbol": "xlm",
-    "name": "Stellar",
-    "market_cap": 8310255558,
-    "score": 0.9943466861729601
   },
   {
     "symbol": "wlfi",
@@ -496,12 +196,6 @@
     "name": "Ether.fi",
     "market_cap": 479270408,
     "score": 0.9677080046485357
-  },
-  {
-    "symbol": "xmr",
-    "name": "Monero",
-    "market_cap": 7334465573,
-    "score": 0.9478401520639329
   },
   {
     "symbol": "mnt",
@@ -522,18 +216,6 @@
     "score": 0.8934172661493656
   },
   {
-    "symbol": "ens",
-    "name": "Ethereum Name Service",
-    "market_cap": 444495655,
-    "score": 0.8760030634427866
-  },
-  {
-    "symbol": "mgo",
-    "name": "Mango Network",
-    "market_cap": 34056617,
-    "score": 0.8106052825564708
-  },
-  {
     "symbol": "ondo",
     "name": "Ondo",
     "market_cap": 1634342058,
@@ -546,28 +228,10 @@
     "score": 0.8097094248522764
   },
   {
-    "symbol": "eul",
-    "name": "Euler",
-    "market_cap": 78187204,
-    "score": 0.7875839178355528
-  },
-  {
     "symbol": "zro",
     "name": "LayerZero",
     "market_cap": 265643246,
     "score": 0.7654759044767885
-  },
-  {
-    "symbol": "sign",
-    "name": "Sign",
-    "market_cap": 53764811,
-    "score": 0.7617815303024128
-  },
-  {
-    "symbol": "axl",
-    "name": "Axelar",
-    "market_cap": 141611154,
-    "score": 0.7262692189933527
   },
   {
     "symbol": "okb",
@@ -588,18 +252,6 @@
     "score": 0.7211792941290807
   },
   {
-    "symbol": "rpl",
-    "name": "Rocket Pool",
-    "market_cap": 58101950,
-    "score": 0.7142892352618975
-  },
-  {
-    "symbol": "siren",
-    "name": "Siren",
-    "market_cap": 50769963,
-    "score": 0.6971770076114119
-  },
-  {
     "symbol": "a",
     "name": "Vaulta",
     "market_cap": 329146605,
@@ -610,12 +262,6 @@
     "name": "PancakeSwap",
     "market_cap": 832415375,
     "score": 0.6885620848450211
-  },
-  {
-    "symbol": "mx",
-    "name": "MX",
-    "market_cap": 205235692,
-    "score": 0.6878115115538773
   },
   {
     "symbol": "jst",
@@ -630,76 +276,10 @@
     "score": 0.6478288046721272
   },
   {
-    "symbol": "safe",
-    "name": "Safe",
-    "market_cap": 108812066,
-    "score": 0.6385626086728489
-  },
-  {
-    "symbol": "akt",
-    "name": "Akash Network",
-    "market_cap": 147924825,
-    "score": 0.6333170862294919
-  },
-  {
-    "symbol": "ultima",
-    "name": "Ultima",
-    "market_cap": 303041748,
-    "score": 0.6302989571983093
-  },
-  {
-    "symbol": "gmx",
-    "name": "GMX",
-    "market_cap": 94526943,
-    "score": 0.6285943241834246
-  },
-  {
     "symbol": "form",
     "name": "Four",
     "market_cap": 153517266,
     "score": 0.6165534635644293
-  },
-  {
-    "symbol": "cc",
-    "name": "Canton",
-    "market_cap": 3048493077,
-    "score": 0.601621021936144
-  },
-  {
-    "symbol": "flr",
-    "name": "Flare",
-    "market_cap": 1203824183,
-    "score": 0.5901659655559232
-  },
-  {
-    "symbol": "wfi",
-    "name": "WeFi",
-    "market_cap": 176386250,
-    "score": 0.5653743203240049
-  },
-  {
-    "symbol": "zbcn",
-    "name": "Zebec Network",
-    "market_cap": 307152737,
-    "score": 0.5543586219125894
-  },
-  {
-    "symbol": "truth",
-    "name": "Swarm Network",
-    "market_cap": 56182217,
-    "score": 0.5454325115010626
-  },
-  {
-    "symbol": "myx",
-    "name": "MYX Finance",
-    "market_cap": 493588187,
-    "score": 0.5301123950926322
-  },
-  {
-    "symbol": "dsync",
-    "name": "Destra Network",
-    "market_cap": 35341099,
-    "score": 0.5297244561449659
   },
   {
     "symbol": "aero",
@@ -708,40 +288,16 @@
     "score": 0.518452593898303
   },
   {
-    "symbol": "ucn",
-    "name": "UCHAIN",
-    "market_cap": 159448902,
-    "score": 0.49369104481382886
-  },
-  {
-    "symbol": "ctm",
-    "name": "c8ntinuum",
-    "market_cap": 59063296,
-    "score": 0.48681571188300765
-  },
-  {
     "symbol": "render",
     "name": "Render",
     "market_cap": 933424691,
     "score": 0.47437590656148604
   },
   {
-    "symbol": "aura",
-    "name": "aura",
-    "market_cap": 38646919,
-    "score": 0.4595955501653315
-  },
-  {
     "symbol": "syrup",
     "name": "Maple Finance",
     "market_cap": 341318400,
     "score": 0.4555700718156419
-  },
-  {
-    "symbol": "xtz",
-    "name": "Tezos",
-    "market_cap": 544702056,
-    "score": 0.45185237430713426
   },
   {
     "symbol": "sky",
@@ -756,22 +312,10 @@
     "score": 0.42924430119022455
   },
   {
-    "symbol": "cfg",
-    "name": "Centrifuge",
-    "market_cap": 72297219,
-    "score": 0.4245269775981121
-  },
-  {
     "symbol": "htx",
     "name": "HTX DAO",
     "market_cap": 1619311587,
     "score": 0.3708022452051945
-  },
-  {
-    "symbol": "gns",
-    "name": "Gains Network",
-    "market_cap": 40618099,
-    "score": 0.36677357815673994
   },
   {
     "symbol": "btse",
@@ -784,24 +328,6 @@
     "name": "Gate",
     "market_cap": 1239305879,
     "score": 0.32646205716926274
-  },
-  {
-    "symbol": "dbr",
-    "name": "deBridge",
-    "market_cap": 81359578,
-    "score": 0.31010298504743966
-  },
-  {
-    "symbol": "xdc",
-    "name": "XDC Network",
-    "market_cap": 1001842606,
-    "score": 0.3082550793412753
-  },
-  {
-    "symbol": "qnt",
-    "name": "Quant",
-    "market_cap": 1223381055,
-    "score": 0.303934507633846
   },
   {
     "symbol": "fluid",
@@ -822,40 +348,10 @@
     "score": 0.25742594384248324
   },
   {
-    "symbol": "tel",
-    "name": "Telcoin",
-    "market_cap": 491711465,
-    "score": 0.2558916555517218
-  },
-  {
-    "symbol": "lava",
-    "name": "Lava Network",
-    "market_cap": 41725661,
-    "score": 0.25107477684418233
-  },
-  {
-    "symbol": "t",
-    "name": "Threshold Network",
-    "market_cap": 125501505,
-    "score": 0.221447706726999
-  },
-  {
-    "symbol": "rail",
-    "name": "Railgun",
-    "market_cap": 182941740,
-    "score": 0.21306365070847144
-  },
-  {
     "symbol": "morpho",
     "name": "Morpho",
     "market_cap": 806555035,
     "score": 0.21035844949627214
-  },
-  {
-    "symbol": "meta",
-    "name": "MetaDAO",
-    "market_cap": 123947016,
-    "score": 0.19515352835228883
   },
   {
     "symbol": "nexo",
@@ -864,33 +360,9 @@
     "score": 0.18599770974288504
   },
   {
-    "symbol": "oob",
-    "name": "Oobit",
-    "market_cap": 52192281,
-    "score": 0.17211893843076145
-  },
-  {
-    "symbol": "bdx",
-    "name": "Beldex",
-    "market_cap": 602828767,
-    "score": 0.15692234541288905
-  },
-  {
-    "symbol": "niza",
-    "name": "Niza Global",
-    "market_cap": 80794256,
-    "score": 0.12648265490556657
-  },
-  {
     "symbol": "borg",
     "name": "SwissBorg",
     "market_cap": 283159839,
     "score": 0.10906591784842305
-  },
-  {
-    "symbol": "zano",
-    "name": "Zano",
-    "market_cap": 204748473,
-    "score": 0.0759326590924075
   }
 ]

@@ -16,9 +16,9 @@ from datetime import datetime
 class CoinSelector:
     """币种筛选器"""
 
-    # 市值上限（美元）：300亿
-    MARKET_CAP_MAX = 30_000_000_000
-    MARKET_CAP_MIN = 30_000_000
+    # 市值上限（美元）：1-100亿
+    MARKET_CAP_MAX = 10_000_000_000
+    MARKET_CAP_MIN = 100_000_000
 
     def __init__(self):
         self.base_url = "https://api.coingecko.com/api/v3"
