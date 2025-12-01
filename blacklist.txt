@@ -35,6 +35,7 @@ Figure Heloc
 PAXG
 XAUT
 Kinesis Gold
+Kinesis Silver
 
 # 包装类资产 / 跨链映射
 fxrp
@@ -42,6 +43,7 @@ WETH
 WRAPPED SOL
 UNIT BITCOIN
 UBTC
+MAG7.ssi
 WRAPPED BITCOIN
 WRAPPED BTC
 WBTC
@@ -61,6 +63,7 @@ frxeth
 ezeth
 oseth
 gteeth
+Coinbase Wrapped BTC
 sweth
 sena
 -staked-
@@ -116,10 +119,14 @@ FLOKI
 SHIBI
 PNUT
 TUT
+Baby Doge Coin
 pippin
 WIF
 Rekt
 BUILDon
+Minidoge
+Ribbita by Virtuals
+Non-Playable Coin
 TRUMP
 PENGU
 AI Companions
@@ -349,6 +356,7 @@ Unibase
 Sahara AI
 Lagrange
 Allora
+Artificial Superintelligence Alliance
 Cookie DAO
 Vana
 Qubic
@@ -391,7 +399,7 @@ Keeta
 RedStone
 Zebec Network
 
-# 团队/产品没格局/无前景
+# 团队/产品没格局/无前景, bm无保证金证明
 KuCoin
 sfp
 Worldcoin
@@ -400,6 +408,7 @@ Alchemy Pay
 Wormhole
 MX
 Safe
+Bitmart
 
 # Educational
 Open Campus

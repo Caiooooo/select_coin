@@ -1,7 +1,7 @@
 {
-  "filter_time": "2025-12-01T07:09:30.634486",
-  "total_filtered_out": 2422,
-  "total_passed": 78,
+  "filter_time": "2025-12-01T07:20:46.959008",
+  "total_filtered_out": 2431,
+  "total_passed": 69,
   "filtered_coins": [
     {
       "name": "Bitcoin",
@@ -227,6 +227,15 @@
       "total_volume": 133506497,
       "price_change_percentage_24h": 0.03545,
       "filter_reason": "名称或符号包含 USD/USDT/STAKED（稳定币等）"
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbbtc",
+      "market_cap": 6768573976,
+      "market_cap_rank": 29,
+      "total_volume": 496988514,
+      "price_change_percentage_24h": 4.39917,
+      "filter_reason": "命中黑名单关键字: COINBASE WRAPPED BTC"
     },
     {
       "name": "Litecoin",
@@ -839,6 +848,15 @@
       "total_volume": 6.42,
       "price_change_percentage_24h": 4.51289,
       "filter_reason": "命中黑名单关键字: CLBTC"
+    },
+    {
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "fet",
+      "market_cap": 690232421,
+      "market_cap_rank": 124,
+      "total_volume": 144074115,
+      "price_change_percentage_24h": -3.15453,
+      "filter_reason": "命中黑名单关键字: ARTIFICIAL SUPERINTELLIGENCE ALLIANCE"
     },
     {
       "name": "Ondo US Dollar Yield",
@@ -2002,6 +2020,15 @@
       "filter_reason": "ATH在2023-01-01之前且跌幅>95%: ATH日期=2022-05-27T11:45:24.820Z, 跌幅=-96.94753%"
     },
     {
+      "name": "Kinesis Silver",
+      "symbol": "kag",
+      "market_cap": 199361073,
+      "market_cap_rank": 279,
+      "total_volume": 766905,
+      "price_change_percentage_24h": 3.179,
+      "filter_reason": "命中黑名单关键字: KINESIS SILVER"
+    },
+    {
       "name": "Sahara AI",
       "symbol": "sahara",
       "market_cap": 199017527,
@@ -2018,6 +2045,15 @@
       "total_volume": 3138383,
       "price_change_percentage_24h": -0.3649,
       "filter_reason": "ATH在2023-01-01之前且跌幅>95%: ATH日期=2021-11-21T17:33:44.178Z, 跌幅=-98.25168%"
+    },
+    {
+      "name": "Ribbita by Virtuals",
+      "symbol": "tibbir",
+      "market_cap": 197521082,
+      "market_cap_rank": 282,
+      "total_volume": 9032405,
+      "price_change_percentage_24h": 6.656,
+      "filter_reason": "命中黑名单关键字: RIBBITA BY VIRTUALS"
     },
     {
       "name": "cWBTC",
@@ -2234,6 +2270,15 @@
       "total_volume": 15421127,
       "price_change_percentage_24h": -8.84779,
       "filter_reason": "命中黑名单关键字: BUILDON"
+    },
+    {
+      "name": "BitMart",
+      "symbol": "bmx",
+      "market_cap": 169938428,
+      "market_cap_rank": 311,
+      "total_volume": 5825892,
+      "price_change_percentage_24h": 0.10652,
+      "filter_reason": "命中黑名单关键字: BITMART"
     },
     {
       "name": "Convex Finance",
@@ -2641,6 +2686,15 @@
       "filter_reason": "交易量不足: $0.49M < $0.6M"
     },
     {
+      "name": "Baby Doge Coin",
+      "symbol": "babydoge",
+      "market_cap": 131453224,
+      "market_cap_rank": 361,
+      "total_volume": 7772818,
+      "price_change_percentage_24h": 4.40064,
+      "filter_reason": "命中黑名单关键字: BABY DOGE COIN"
+    },
+    {
       "name": "Ravencoin",
       "symbol": "rvn",
       "market_cap": 130204632,
@@ -2695,6 +2749,15 @@
       "filter_reason": "命中黑名单关键字: KEETA"
     },
     {
+      "name": "Non-Playable Coin",
+      "symbol": "npc",
+      "market_cap": 126648064,
+      "market_cap_rank": 368,
+      "total_volume": 17729961,
+      "price_change_percentage_24h": 4.557,
+      "filter_reason": "命中黑名单关键字: NON-PLAYABLE COIN"
+    },
+    {
       "name": "Polygon Bridged weETH (Katana)",
       "symbol": "weeth",
       "market_cap": 126197710,
@@ -2720,6 +2783,15 @@
       "total_volume": 2871793,
       "price_change_percentage_24h": 1.27958,
       "filter_reason": "命中黑名单关键字: THRESHOLD NETWORK"
+    },
+    {
+      "name": "MAG7.ssi",
+      "symbol": "mag7.ssi",
+      "market_cap": 124955936,
+      "market_cap_rank": 372,
+      "total_volume": 894936,
+      "price_change_percentage_24h": 3.0217,
+      "filter_reason": "命中黑名单关键字: MAG7.SSI"
     },
     {
       "name": "AI Companions",
@@ -3089,6 +3161,15 @@
       "total_volume": 95118,
       "price_change_percentage_24h": -8.40618,
       "filter_reason": "交易量不足: $0.10M < $0.6M"
+    },
+    {
+      "name": "Minidoge",
+      "symbol": "minidoge",
+      "market_cap": 106235420,
+      "market_cap_rank": 416,
+      "total_volume": 4282911,
+      "price_change_percentage_24h": 1.2347,
+      "filter_reason": "命中黑名单关键字: MINIDOGE"
     },
     {
       "name": "Popcat",

@@ -84,12 +84,6 @@
     "score": 1.6805266041938156
   },
   {
-    "symbol": "fet",
-    "name": "Artificial Superintelligence Alliance",
-    "market_cap": 690232421,
-    "score": 1.6698620420207704
-  },
-  {
     "symbol": "apt",
     "name": "Aptos",
     "market_cap": 1659068459,
@@ -114,12 +108,6 @@
     "score": 1.4404602039868535
   },
   {
-    "symbol": "cbbtc",
-    "name": "Coinbase Wrapped BTC",
-    "market_cap": 6768573976,
-    "score": 1.4393821559172095
-  },
-  {
     "symbol": "tia",
     "name": "Celestia",
     "market_cap": 544968162,
@@ -142,12 +130,6 @@
     "name": "Uniswap",
     "market_cap": 3893915200,
     "score": 1.3691998579578724
-  },
-  {
-    "symbol": "npc",
-    "name": "Non-Playable Coin",
-    "market_cap": 126648064,
-    "score": 1.2566614901388466
   },
   {
     "symbol": "pump",
@@ -330,22 +312,10 @@
     "score": 0.6165534635644293
   },
   {
-    "symbol": "babydoge",
-    "name": "Baby Doge Coin",
-    "market_cap": 131453224,
-    "score": 0.6050585223371989
-  },
-  {
     "symbol": "gmx",
     "name": "GMX",
     "market_cap": 104526943,
     "score": 0.579310990202881
-  },
-  {
-    "symbol": "tibbir",
-    "name": "Ribbita by Virtuals",
-    "market_cap": 197521082,
-    "score": 0.565510519296163
   },
   {
     "symbol": "jup",
@@ -390,12 +360,6 @@
     "score": 0.3708022452051945
   },
   {
-    "symbol": "minidoge",
-    "name": "Minidoge",
-    "market_cap": 106235420,
-    "score": 0.3595632623490358
-  },
-  {
     "symbol": "btse",
     "name": "BTSE Token",
     "market_cap": 189547739,
@@ -412,12 +376,6 @@
     "name": "Fluid",
     "market_cap": 245591620,
     "score": 0.27801248267347234
-  },
-  {
-    "symbol": "bmx",
-    "name": "BitMart",
-    "market_cap": 169938428,
-    "score": 0.2774545568970239
   },
   {
     "symbol": "gno",
@@ -442,18 +400,6 @@
     "name": "Concordium",
     "market_cap": 185518732,
     "score": 0.1525318149496429
-  },
-  {
-    "symbol": "mag7.ssi",
-    "name": "MAG7.ssi",
-    "market_cap": 124955936,
-    "score": 0.14794710156335428
-  },
-  {
-    "symbol": "kag",
-    "name": "Kinesis Silver",
-    "market_cap": 199361073,
-    "score": 0.12614451333741566
   },
   {
     "symbol": "borg",
