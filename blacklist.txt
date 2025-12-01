@@ -314,6 +314,7 @@ HOME
 Kaspa
 Oobit
 Alchemy Pay
+Stronghold
 Telcoin
 Ultima
 
@@ -329,6 +330,7 @@ six
 PYTHIA
 conscious
 Momentum
+Memecore
 Bittensor
 Holoworld
 AI Rig Complex
@@ -411,6 +413,8 @@ Stellar
 Flare
 Tezos
 Hedera
+Internet Computer
+Core
 
 # zk 且没有大规模应用TVL<10M, 年收入<1M/TVL一直在降低/老而不火
 zkc
