@@ -60,28 +60,10 @@
     "score": 2.0548352448639724
   },
   {
-    "symbol": "sui",
-    "name": "Sui",
-    "market_cap": 5660385589,
-    "score": 1.808110432669349
-  },
-  {
-    "symbol": "zec",
-    "name": "Zcash",
-    "market_cap": 8357449020,
-    "score": 1.7425796825044073
-  },
-  {
     "symbol": "ena",
     "name": "Ethena",
     "market_cap": 2053112552,
     "score": 1.6972157914117125
-  },
-  {
-    "symbol": "arkm",
-    "name": "Arkham",
-    "market_cap": 133426369,
-    "score": 1.6805266041938156
   },
   {
     "symbol": "apt",
@@ -202,12 +184,6 @@
     "name": "Mantle",
     "market_cap": 3402674466,
     "score": 0.9179681030989159
-  },
-  {
-    "symbol": "s",
-    "name": "Sonic",
-    "market_cap": 421077235,
-    "score": 0.9048788337428133
   },
   {
     "symbol": "ondo",

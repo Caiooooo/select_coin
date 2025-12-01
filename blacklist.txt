@@ -298,9 +298,10 @@ Cosmos Hub
 KGeN
 AltLayer
 
-# 没用的layer2 lighting/bsc/plasma已经非常快 不需要更多
+# 没用的layer2/1 lighting/bsc/plasma已经非常快 不需要更多
 Merlin Chain
 Manta Network
+Sonic
 Blast
 
 #年收入低于1M/7d收入低于5000$
@@ -437,18 +438,22 @@ Core
 # 主流layer2/layer1：涨幅不会高，盈亏比不好，且费率高 易被取代(plasma等)
 avax
 ton
+Sui
 Optimism
 
 # zk 且没有大规模应用TVL<10M, 年收入<1M/TVL一直在降低/老而不火
 zkc
 Anoma
 Binance-Peg ZEC
+Arkham
 Succinct
+Celestia
 Starknet
 Railgun
 WeFi
 Zano
 MYX Finance
+Zcash
 Sign
 Swarm Network
 
