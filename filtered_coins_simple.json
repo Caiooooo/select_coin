@@ -90,12 +90,6 @@
     "score": 1.59031663616239
   },
   {
-    "symbol": "avax",
-    "name": "Avalanche",
-    "market_cap": 6409650597,
-    "score": 1.5264773232694127
-  },
-  {
     "symbol": "eigen",
     "name": "EigenCloud (prev. EigenLayer)",
     "market_cap": 271094677,
@@ -198,18 +192,6 @@
     "score": 1.0257365751937975
   },
   {
-    "symbol": "op",
-    "name": "Optimism",
-    "market_cap": 623997209,
-    "score": 0.9974147376533419
-  },
-  {
-    "symbol": "wlfi",
-    "name": "World Liberty Financial",
-    "market_cap": 4320797942,
-    "score": 0.9863214840190738
-  },
-  {
     "symbol": "ethfi",
     "name": "Ether.fi",
     "market_cap": 479270408,
@@ -228,18 +210,6 @@
     "score": 0.9048788337428133
   },
   {
-    "symbol": "ton",
-    "name": "Toncoin",
-    "market_cap": 4000188709,
-    "score": 0.8934172661493656
-  },
-  {
-    "symbol": "gomining",
-    "name": "GoMining Token",
-    "market_cap": 117427309,
-    "score": 0.8740336664110893
-  },
-  {
     "symbol": "ondo",
     "name": "Ondo",
     "market_cap": 1634342058,
@@ -256,18 +226,6 @@
     "name": "LayerZero",
     "market_cap": 265643246,
     "score": 0.7654759044767885
-  },
-  {
-    "symbol": "jlp",
-    "name": "Jupiter Perpetuals Liquidity Provider Token",
-    "market_cap": 1855572185,
-    "score": 0.7545184841215189
-  },
-  {
-    "symbol": "okb",
-    "name": "OKB",
-    "market_cap": 2323791490,
-    "score": 0.7253243724943296
   },
   {
     "symbol": "pol",
@@ -336,12 +294,6 @@
     "score": 0.47437590656148604
   },
   {
-    "symbol": "syrup",
-    "name": "Maple Finance",
-    "market_cap": 341318400,
-    "score": 0.4555700718156419
-  },
-  {
     "symbol": "sky",
     "name": "Sky",
     "market_cap": 1064800497,
@@ -352,12 +304,6 @@
     "name": "dYdX",
     "market_cap": 206789985,
     "score": 0.42924430119022455
-  },
-  {
-    "symbol": "htx",
-    "name": "HTX DAO",
-    "market_cap": 1619311587,
-    "score": 0.3708022452051945
   },
   {
     "symbol": "btse",
@@ -378,12 +324,6 @@
     "score": 0.27801248267347234
   },
   {
-    "symbol": "gno",
-    "name": "Gnosis",
-    "market_cap": 357019821,
-    "score": 0.25742594384248324
-  },
-  {
     "symbol": "morpho",
     "name": "Morpho",
     "market_cap": 806555035,
@@ -394,23 +334,5 @@
     "name": "NEXO",
     "market_cap": 991726616,
     "score": 0.18599770974288504
-  },
-  {
-    "symbol": "ccd",
-    "name": "Concordium",
-    "market_cap": 185518732,
-    "score": 0.1525318149496429
-  },
-  {
-    "symbol": "borg",
-    "name": "SwissBorg",
-    "market_cap": 283159839,
-    "score": 0.10906591784842305
-  },
-  {
-    "symbol": "venom",
-    "name": "Venom",
-    "market_cap": 119347238,
-    "score": 0.0411214208409247
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "filter_time": "2025-12-01T07:20:46.959008",
-  "total_filtered_out": 2431,
-  "total_passed": 69,
+  "filter_time": "2025-12-01T12:00:43.867052",
+  "total_filtered_out": 2444,
+  "total_passed": 56,
   "filtered_coins": [
     {
       "name": "Bitcoin",
@@ -247,6 +247,15 @@
       "filter_reason": "命中黑名单关键字: LTC"
     },
     {
+      "name": "Avalanche",
+      "symbol": "avax",
+      "market_cap": 6409650597,
+      "market_cap_rank": 31,
+      "total_volume": 505439346,
+      "price_change_percentage_24h": 6.52098,
+      "filter_reason": "命中黑名单关键字: AVAX"
+    },
+    {
       "name": "Hedera",
       "symbol": "hbar",
       "market_cap": 6276453633,
@@ -274,6 +283,15 @@
       "filter_reason": "命中黑名单关键字: DAI"
     },
     {
+      "name": "World Liberty Financial",
+      "symbol": "wlfi",
+      "market_cap": 4320797942,
+      "market_cap_rank": 36,
+      "total_volume": 181647147,
+      "price_change_percentage_24h": -1.49364,
+      "filter_reason": "命中黑名单关键字: WORLD LIBERTY FINANCIAL"
+    },
+    {
       "name": "Ethena Staked USDe",
       "symbol": "susde",
       "market_cap": 4230482912,
@@ -290,6 +308,15 @@
       "total_volume": 22407062,
       "price_change_percentage_24h": 2.84907,
       "filter_reason": "命中黑名单关键字: CRONOS"
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "ton",
+      "market_cap": 4000188709,
+      "market_cap_rank": 39,
+      "total_volume": 106749819,
+      "price_change_percentage_24h": 1.99759,
+      "filter_reason": "命中黑名单关键字: TON"
     },
     {
       "name": "USDT0",
@@ -362,6 +389,15 @@
       "total_volume": 163164355,
       "price_change_percentage_24h": 2.56737,
       "filter_reason": "命中黑名单关键字: NEAR"
+    },
+    {
+      "name": "OKB",
+      "symbol": "okb",
+      "market_cap": 2323791490,
+      "market_cap_rank": 52,
+      "total_volume": 32724989,
+      "price_change_percentage_24h": 4.08879,
+      "filter_reason": "命中黑名单关键字: OKB"
     },
     {
       "name": "BlackRock USD Institutional Digital Liquidity Fund",
@@ -445,6 +481,15 @@
       "filter_reason": "命中黑名单关键字: PEPE"
     },
     {
+      "name": "Jupiter Perpetuals Liquidity Provider Token",
+      "symbol": "jlp",
+      "market_cap": 1855572185,
+      "market_cap_rank": 64,
+      "total_volume": 74601606,
+      "price_change_percentage_24h": 2.09619,
+      "filter_reason": "命中黑名单关键字: JUPITER PERPETUALS LIQUIDITY PROVIDER TOKEN"
+    },
+    {
       "name": "Binance-Peg WETH",
       "symbol": "weth",
       "market_cap": 1829276029,
@@ -479,6 +524,15 @@
       "total_volume": 118181075,
       "price_change_percentage_24h": 19.15259,
       "filter_reason": "命中黑名单关键字: KASPA"
+    },
+    {
+      "name": "HTX DAO",
+      "symbol": "htx",
+      "market_cap": 1619311587,
+      "market_cap_rank": 72,
+      "total_volume": 9424018,
+      "price_change_percentage_24h": 1.14147,
+      "filter_reason": "命中黑名单关键字: HTX"
     },
     {
       "name": "Worldcoin",
@@ -920,6 +974,15 @@
       "total_volume": 104324545,
       "price_change_percentage_24h": 6.24473,
       "filter_reason": "ATH在2023-01-01之前且跌幅>95%: ATH日期=2020-08-14T00:00:00.000Z, 跌幅=-97.15491%"
+    },
+    {
+      "name": "Optimism",
+      "symbol": "op",
+      "market_cap": 623997209,
+      "market_cap_rank": 133,
+      "total_volume": 69875382,
+      "price_change_percentage_24h": 3.38575,
+      "filter_reason": "命中黑名单关键字: OPTIMISM"
     },
     {
       "name": "Polygon Bridged USDC (Polygon PoS)",
@@ -1435,6 +1498,15 @@
       "filter_reason": "ATH在2023-01-01之前且跌幅>95%: ATH日期=2021-04-25T00:00:00.000Z, 跌幅=-98.44263%"
     },
     {
+      "name": "Gnosis",
+      "symbol": "gno",
+      "market_cap": 357019821,
+      "market_cap_rank": 200,
+      "total_volume": 7889002,
+      "price_change_percentage_24h": 2.68838,
+      "filter_reason": "命中黑名单关键字: GNOSIS"
+    },
+    {
       "name": "Fartcoin",
       "symbol": "fartcoin",
       "market_cap": 346927121,
@@ -1442,6 +1514,15 @@
       "total_volume": 258507140,
       "price_change_percentage_24h": 14.44689,
       "filter_reason": "命中黑名单关键字: FARTCOIN"
+    },
+    {
+      "name": "Maple Finance",
+      "symbol": "syrup",
+      "market_cap": 341318400,
+      "market_cap_rank": 203,
+      "total_volume": 19436806,
+      "price_change_percentage_24h": -0.13114,
+      "filter_reason": "命中黑名单关键字: MAPLE FINANCE"
     },
     {
       "name": "Basic Attention",
@@ -1622,6 +1703,15 @@
       "total_volume": 16089825,
       "price_change_percentage_24h": -2.06204,
       "filter_reason": "命中黑名单关键字: APE AND PEPE"
+    },
+    {
+      "name": "SwissBorg",
+      "symbol": "borg",
+      "market_cap": 283159839,
+      "market_cap_rank": 227,
+      "total_volume": 1000284,
+      "price_change_percentage_24h": 2.69351,
+      "filter_reason": "命中黑名单关键字: SWISSBORG"
     },
     {
       "name": "Legacy Frax Dollar",
@@ -2135,6 +2225,15 @@
       "total_volume": 281373,
       "price_change_percentage_24h": 83.12763,
       "filter_reason": "交易量不足: $0.28M < $0.6M"
+    },
+    {
+      "name": "Concordium",
+      "symbol": "ccd",
+      "market_cap": 185518732,
+      "market_cap_rank": 293,
+      "total_volume": 676775,
+      "price_change_percentage_24h": 4.11159,
+      "filter_reason": "命中黑名单关键字: CONCORDIUM"
     },
     {
       "name": "Beam",
@@ -2875,6 +2974,15 @@
       "filter_reason": "交易量不足: $0.29M < $0.6M"
     },
     {
+      "name": "Venom",
+      "symbol": "venom",
+      "market_cap": 119347238,
+      "market_cap_rank": 382,
+      "total_volume": 613466,
+      "price_change_percentage_24h": -1.26032,
+      "filter_reason": "命中黑名单关键字: VENOM"
+    },
+    {
       "name": "Ozone Chain",
       "symbol": "ozo",
       "market_cap": 119265938,
@@ -2954,6 +3062,15 @@
       "total_volume": 3861122,
       "price_change_percentage_24h": 0.15788,
       "filter_reason": "命中黑名单关键字: ALEO"
+    },
+    {
+      "name": "GoMining Token",
+      "symbol": "gomining",
+      "market_cap": 117427309,
+      "market_cap_rank": 392,
+      "total_volume": 11822443,
+      "price_change_percentage_24h": 2.28677,
+      "filter_reason": "命中黑名单关键字: GOMINING TOKEN"
     },
     {
       "name": "Crypto.com Staked ETH",
@@ -6013,7 +6130,7 @@
       "market_cap_rank": 737,
       "total_volume": 4670378,
       "price_change_percentage_24h": 0.09507,
-      "filter_reason": "市值低于下限: $42.48M < $100.00M"
+      "filter_reason": "命中黑名单关键字: TON"
     },
     {
       "name": "Sai",
@@ -7705,7 +7822,7 @@
       "market_cap_rank": 925,
       "total_volume": 69413,
       "price_change_percentage_24h": 6.46229,
-      "filter_reason": "市值低于下限: $29.82M < $100.00M"
+      "filter_reason": "命中黑名单关键字: AVAX"
     },
     {
       "name": "AI Analysis Token",

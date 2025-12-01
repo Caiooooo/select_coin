@@ -131,6 +131,7 @@ TRUMP
 PENGU
 AI Companions
 OG Fan Token
+Jupiter Perpetuals Liquidity Provider Token
 TROLL
 PEPE
 Ape and Pepe
@@ -155,6 +156,7 @@ jellyjelly
 bananas31
 neiro
 vine
+World Liberty Financial
 popcat
 useless
 brett
@@ -226,6 +228,7 @@ mana
 imx
 flow
 uds
+GoMining Token
 stx
 Echelon Prime
 zora
@@ -270,7 +273,9 @@ jasmy
 XDC Network
 etn
 vechain
+Concordium
 0g
+VENOM
 Humanity
 UCHAIN
 Berachain
@@ -399,7 +404,7 @@ Keeta
 RedStone
 Zebec Network
 
-# 团队/产品没格局/无前景, bm无保证金证明
+# 团队/产品没格局/无前景/大陆无法参与, bm无保证金证明, HTX：孙割的产品你别碰
 KuCoin
 sfp
 Worldcoin
@@ -408,7 +413,9 @@ Alchemy Pay
 Wormhole
 MX
 Safe
+HTX
 Bitmart
+SwissBorg
 
 # Educational
 Open Campus
@@ -416,14 +423,21 @@ Open Campus
 # 市值过高/Depin
 XYO Network
 Grass
+OKB
 World Mobile Token
 Threshold Network
 Stellar
 Flare
 Tezos
+Gnosis
 Hedera
 Internet Computer
 Core
+
+# 主流layer2/layer1：涨幅不会高，盈亏比不好，且费率高 易被取代(plasma等)
+avax
+ton
+Optimism
 
 # zk 且没有大规模应用TVL<10M, 年收入<1M/TVL一直在降低/老而不火
 zkc
@@ -442,3 +456,6 @@ Swarm Network
 # Oracle
 Apro
 DIA
+
+# 正在用代币空投补贴，无法持续
+Maple Finance
