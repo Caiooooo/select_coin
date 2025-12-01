@@ -24,10 +24,28 @@
     "score": 4.0
   },
   {
+    "symbol": "spk",
+    "name": "Spark",
+    "market_cap": 63201952,
+    "score": 4.0
+  },
+  {
     "symbol": "xpl",
     "name": "Plasma",
     "market_cap": 423759643,
     "score": 3.1404265793359287
+  },
+  {
+    "symbol": "mbg",
+    "name": "MBG By Multibank Group",
+    "market_cap": 58578009,
+    "score": 3.0019569419446537
+  },
+  {
+    "symbol": "bome",
+    "name": "BOOK OF MEME",
+    "market_cap": 51925559,
+    "score": 2.723337453201754
   },
   {
     "symbol": "linea",
@@ -42,10 +60,22 @@
     "score": 2.3641211895120517
   },
   {
+    "symbol": "people",
+    "name": "ConstitutionDAO",
+    "market_cap": 51989227,
+    "score": 2.2792710181879663
+  },
+  {
     "symbol": "drift",
     "name": "Drift Protocol",
     "market_cap": 101137831,
     "score": 2.1930078749229693
+  },
+  {
+    "symbol": "shx",
+    "name": "Stronghold",
+    "market_cap": 73833040,
+    "score": 2.149180826595356
   },
   {
     "symbol": "jto",
@@ -60,10 +90,28 @@
     "score": 2.0548352448639724
   },
   {
+    "symbol": "me",
+    "name": "Magic Eden",
+    "market_cap": 63319595,
+    "score": 1.8721114702686823
+  },
+  {
     "symbol": "sui",
     "name": "Sui",
     "market_cap": 5660385589,
     "score": 1.808110432669349
+  },
+  {
+    "symbol": "esports",
+    "name": "Yooldo Games",
+    "market_cap": 75001467,
+    "score": 1.7896786016648663
+  },
+  {
+    "symbol": "zec",
+    "name": "Zcash",
+    "market_cap": 8357449020,
+    "score": 1.7425796825044073
   },
   {
     "symbol": "ena",
@@ -78,10 +126,22 @@
     "score": 1.6805266041938156
   },
   {
+    "symbol": "fet",
+    "name": "Artificial Superintelligence Alliance",
+    "market_cap": 690232421,
+    "score": 1.6698620420207704
+  },
+  {
     "symbol": "apt",
     "name": "Aptos",
     "market_cap": 1659068459,
     "score": 1.59031663616239
+  },
+  {
+    "symbol": "api3",
+    "name": "Api3",
+    "market_cap": 75693403,
+    "score": 1.5584450636528513
   },
   {
     "symbol": "avax",
@@ -90,16 +150,40 @@
     "score": 1.5264773232694127
   },
   {
+    "symbol": "baby",
+    "name": "Babylon",
+    "market_cap": 59325191,
+    "score": 1.4894180982334484
+  },
+  {
+    "symbol": "eigen",
+    "name": "EigenCloud (prev. EigenLayer)",
+    "market_cap": 271094677,
+    "score": 1.4829180024167676
+  },
+  {
     "symbol": "aave",
     "name": "Aave",
     "market_cap": 2775190088,
     "score": 1.4404602039868535
   },
   {
+    "symbol": "cbbtc",
+    "name": "Coinbase Wrapped BTC",
+    "market_cap": 6768573976,
+    "score": 1.4393821559172095
+  },
+  {
     "symbol": "tia",
     "name": "Celestia",
     "market_cap": 544968162,
     "score": 1.4059566312155451
+  },
+  {
+    "symbol": "tag",
+    "name": "TAGGER",
+    "market_cap": 62519445,
+    "score": 1.399027611262088
   },
   {
     "symbol": "ray",
@@ -118,6 +202,18 @@
     "name": "Uniswap",
     "market_cap": 3893915200,
     "score": 1.3691998579578724
+  },
+  {
+    "symbol": "ssv",
+    "name": "SSV Network",
+    "market_cap": 55752438,
+    "score": 1.285419948810131
+  },
+  {
+    "symbol": "npc",
+    "name": "Non-Playable Coin",
+    "market_cap": 126648064,
+    "score": 1.2566614901388466
   },
   {
     "symbol": "pump",
@@ -186,6 +282,12 @@
     "score": 1.0257365751937975
   },
   {
+    "symbol": "op",
+    "name": "Optimism",
+    "market_cap": 623997209,
+    "score": 0.9974147376533419
+  },
+  {
     "symbol": "wlfi",
     "name": "World Liberty Financial",
     "market_cap": 4320797942,
@@ -216,6 +318,12 @@
     "score": 0.8934172661493656
   },
   {
+    "symbol": "gomining",
+    "name": "GoMining Token",
+    "market_cap": 117427309,
+    "score": 0.8740336664110893
+  },
+  {
     "symbol": "ondo",
     "name": "Ondo",
     "market_cap": 1634342058,
@@ -228,10 +336,22 @@
     "score": 0.8097094248522764
   },
   {
+    "symbol": "eul",
+    "name": "Euler",
+    "market_cap": 78187204,
+    "score": 0.7875839178355528
+  },
+  {
     "symbol": "zro",
     "name": "LayerZero",
     "market_cap": 265643246,
     "score": 0.7654759044767885
+  },
+  {
+    "symbol": "jlp",
+    "name": "Jupiter Perpetuals Liquidity Provider Token",
+    "market_cap": 1855572185,
+    "score": 0.7545184841215189
   },
   {
     "symbol": "okb",
@@ -250,6 +370,12 @@
     "name": "Bitget Token",
     "market_cap": 2562223569,
     "score": 0.7211792941290807
+  },
+  {
+    "symbol": "rpl",
+    "name": "Rocket Pool",
+    "market_cap": 58101950,
+    "score": 0.7142892352618975
   },
   {
     "symbol": "a",
@@ -276,16 +402,46 @@
     "score": 0.6478288046721272
   },
   {
+    "symbol": "gmx",
+    "name": "GMX",
+    "market_cap": 94526943,
+    "score": 0.6285943241834246
+  },
+  {
     "symbol": "form",
     "name": "Four",
     "market_cap": 153517266,
     "score": 0.6165534635644293
   },
   {
+    "symbol": "babydoge",
+    "name": "Baby Doge Coin",
+    "market_cap": 131453224,
+    "score": 0.6050585223371989
+  },
+  {
+    "symbol": "tibbir",
+    "name": "Ribbita by Virtuals",
+    "market_cap": 197521082,
+    "score": 0.565510519296163
+  },
+  {
+    "symbol": "jup",
+    "name": "Jupiter",
+    "market_cap": 804832720,
+    "score": 0.5477092413362221
+  },
+  {
     "symbol": "aero",
     "name": "Aerodrome Finance",
     "market_cap": 641678370,
     "score": 0.518452593898303
+  },
+  {
+    "symbol": "core",
+    "name": "Core",
+    "market_cap": 142858052,
+    "score": 0.4824713135525606
   },
   {
     "symbol": "render",
@@ -312,10 +468,22 @@
     "score": 0.42924430119022455
   },
   {
+    "symbol": "cfg",
+    "name": "Centrifuge",
+    "market_cap": 72297219,
+    "score": 0.4245269775981121
+  },
+  {
     "symbol": "htx",
     "name": "HTX DAO",
     "market_cap": 1619311587,
     "score": 0.3708022452051945
+  },
+  {
+    "symbol": "minidoge",
+    "name": "Minidoge",
+    "market_cap": 106235420,
+    "score": 0.3595632623490358
   },
   {
     "symbol": "btse",
@@ -328,6 +496,18 @@
     "name": "Gate",
     "market_cap": 1239305879,
     "score": 0.32646205716926274
+  },
+  {
+    "symbol": "dbr",
+    "name": "deBridge",
+    "market_cap": 81359578,
+    "score": 0.31010298504743966
+  },
+  {
+    "symbol": "vbwbtc",
+    "name": "VaultBridge Bridged WBTC (Katana)",
+    "market_cap": 79043775,
+    "score": 0.2917895570701488
   },
   {
     "symbol": "fluid",
@@ -348,6 +528,12 @@
     "score": 0.25742594384248324
   },
   {
+    "symbol": "apex",
+    "name": "APEX",
+    "market_cap": 93415884,
+    "score": 0.2354697622943867
+  },
+  {
     "symbol": "morpho",
     "name": "Morpho",
     "market_cap": 806555035,
@@ -360,9 +546,57 @@
     "score": 0.18599770974288504
   },
   {
+    "symbol": "ccd",
+    "name": "Concordium",
+    "market_cap": 185518732,
+    "score": 0.1525318149496429
+  },
+  {
+    "symbol": "mag7.ssi",
+    "name": "MAG7.ssi",
+    "market_cap": 124955936,
+    "score": 0.14794710156335428
+  },
+  {
+    "symbol": "niza",
+    "name": "Niza Global",
+    "market_cap": 80794256,
+    "score": 0.12648265490556657
+  },
+  {
+    "symbol": "kag",
+    "name": "Kinesis Silver",
+    "market_cap": 199361073,
+    "score": 0.12614451333741566
+  },
+  {
+    "symbol": "geod",
+    "name": "Geodnet",
+    "market_cap": 66203949,
+    "score": 0.11652694614939059
+  },
+  {
     "symbol": "borg",
     "name": "SwissBorg",
     "market_cap": 283159839,
     "score": 0.10906591784842305
+  },
+  {
+    "symbol": "svl",
+    "name": "Slash Vision Labs",
+    "market_cap": 85234482,
+    "score": 0.0957996318907646
+  },
+  {
+    "symbol": "hsk",
+    "name": "HashKey Platform Token",
+    "market_cap": 80017463,
+    "score": 0.08340769314318303
+  },
+  {
+    "symbol": "venom",
+    "name": "Venom",
+    "market_cap": 119347238,
+    "score": 0.0411214208409247
   }
 ]

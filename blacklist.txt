@@ -20,6 +20,8 @@ dola
 mim
 gyd
 thbill
+Savings xDAI
+Midas mHYPER
 resolv-usr
 usr
 koge
@@ -97,8 +99,11 @@ teth
 vhype
 lhype
 upump
+Onchain Yield Coin
 Sanctum Infinity
+
 Binance-Peg SOL
+Resolv wstUSR
 BurnedFi
 
 # 分叉
@@ -111,6 +116,7 @@ FLOKI
 SHIBI
 PNUT
 TUT
+pippin
 WIF
 Rekt
 BUILDon
@@ -120,6 +126,7 @@ AI Companions
 OG Fan Token
 TROLL
 PEPE
+Ape and Pepe
 BONK
 DOGE
 FARTCOIN
